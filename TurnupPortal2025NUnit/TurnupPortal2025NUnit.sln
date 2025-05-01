@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnupPortal2025NUnit", "TurnupPortal2025NUnit.csproj", "{E460974B-6231-4FBC-9620-C4E025A59499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E460974B-6231-4FBC-9620-C4E025A59499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E460974B-6231-4FBC-9620-C4E025A59499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E460974B-6231-4FBC-9620-C4E025A59499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E460974B-6231-4FBC-9620-C4E025A59499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E689D70A-F0FC-4199-B62B-5ECE94A98E50}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TurnupPortal2025NUnit": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
